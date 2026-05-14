@@ -60,12 +60,12 @@ Expected live structure:
 
 ```text
 public_html/index.html
-public_html/pics/Grass Cutting Jacksonville.jpg
-public_html/pics/Lawn Maintenance Plans.jpg
-public_html/pics/Edging & Trimming.jpg
-public_html/pics/Yard Cleanup & Debris Removal.jpg
-public_html/pics/Bush & Hedge Trimming.jpg
-public_html/pics/Commercial Lawn Care.jpg
+public_html/pics/grass-cutting-jacksonville.jpg
+public_html/pics/lawn-maintenance-plans.jpg
+public_html/pics/edging-trimming.jpg
+public_html/pics/yard-cleanup-debris-removal.jpg
+public_html/pics/bush-hedge-trimming.jpg
+public_html/pics/commercial-lawn-care.jpg
 ```
 
 After upload, check both:
